@@ -24,3 +24,6 @@
 
 10. Clear the current terminal
     $ clear
+
+11. Print history of a command in the current session
+    $ history
