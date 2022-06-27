@@ -3,3 +3,6 @@
 
 2. Copy file
     $ cp sourceFileLocation destinationFileLocation
+
+3. Move file
+    $ mv sourceFileLocation destinationFileLocation
