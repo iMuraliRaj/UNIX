@@ -6,3 +6,6 @@
 
 3. Move file
     $ mv sourceFileLocation destinationFileLocation
+    
+4. Remove file
+    $ rm fileLocation
