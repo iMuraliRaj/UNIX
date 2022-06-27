@@ -9,3 +9,6 @@
     
 4. Remove file
     $ rm fileLocation
+
+5. Create directory
+    $ mkdir fileLocation
