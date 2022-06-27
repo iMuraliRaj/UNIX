@@ -15,3 +15,6 @@
 
 6. Remove directory
     $ rmdir fileLocation
+
+7. change working directory
+    $ cd distinationDirectory
