@@ -1,2 +1,5 @@
 1. Touch:
     $ touch  filename
+
+2. Copy file
+    $ cp sourceFileLocation destinationFileLocation
