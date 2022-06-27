@@ -21,3 +21,6 @@
 
 8. Print the Present Working Directory
     $ pwd
+
+10. Clear the current terminal
+    $ clear
