@@ -27,3 +27,6 @@
 
 11. Print history of a command in the current session
     $ history
+
+12. to know who Am I..?
+    $ whoami
