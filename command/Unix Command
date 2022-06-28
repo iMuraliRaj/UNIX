@@ -41,3 +41,7 @@
     
 15. To know who are all logged
     $ users
+
+16. To know who logged user with time
+    $ who
+    $ w
