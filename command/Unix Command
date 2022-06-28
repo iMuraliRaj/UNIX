@@ -33,3 +33,6 @@
     
 13. To shutdown the system
     $ halt
+
+14. To restart the sytem
+    $ init 6
