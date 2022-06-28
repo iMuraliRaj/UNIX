@@ -30,3 +30,6 @@
 
 12. to know who Am I..?
     $ whoami
+    
+13. To shutdown the system
+    $ halt
